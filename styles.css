@@ -1,0 +1,45 @@
+/* CSS File: styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #f8f9fa;
+    color: #343a40;
+}
+
+header {
+    background: #74c69d;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #74c69d;
+    border-radius: 8px;
+    background: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    background: #74c69d;
+    padding: 15px;
+    margin: 10px auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #74c69d;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
